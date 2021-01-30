@@ -1,6 +1,6 @@
 # <center>Getting Started</center>
 
-## Download
+### Download
 
 [Visual Studio Code](https://code.visualstudio.com/) is a free open source code editor by Microsoft for Windows, Mac and Linux.
 
@@ -8,7 +8,7 @@ Let's download and install the code editor from [VS Code website](https://code.v
 
 ![VS Code Website](./vscode-website.png)
 
-## Installation
+### Installation
 
 Once downloaded, install the VSCode locally.
 
