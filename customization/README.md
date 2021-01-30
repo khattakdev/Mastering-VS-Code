@@ -2,7 +2,7 @@
 
 Now we have VS Code successfully installed and running. But you might not like the the way it looks, the theme might be boring for you.Let's fix that, let's change the looks and make it look more cool and awesome.
 
-## Themes
+### Themes
 
 By Default VS Code provides various themes (dark/light) which you can use.
 
