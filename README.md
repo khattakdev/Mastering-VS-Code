@@ -17,3 +17,8 @@ This is a basic guide to VS Code. There is no pre-requisite for this guide.
   - [Navigating Between Lines](navigation/README.md#navigating-between-lines)
   - [Finding Files](navigation/README.md#finding-files)
   - [Renaming](navigation/README.md#renaming)
+- [Version Control](version-control/README.md)
+  - [Initialization Git](version-control/README.md#initialization-git)
+  - [Commit](version-control/README.md#commit)
+  - [Remote Repository](version-control/README.md#remote-repository)
+  - [Push/Pull](version-control/README.md#push/pull)
