@@ -1,4 +1,4 @@
-<h1 align="center">Do it with VS Code</h1>
+<h1 align="center">Mastering VS Code</h1>
 
 This is a basic guide to VS Code. There is no pre-requisite for this guide.
 
